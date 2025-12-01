@@ -19,7 +19,24 @@ This Apify actor allows you to scrape rental property listings from [https://www
 | Stat | Value |
 |------|-------|
 | **Version** | `1.0.2` |
-| **Last Update** | Nov 30, 2025 |
+| **Last Update** | Dec 1, 2025 |
+
+---
+
+
+
+## 💻 Integration Examples
+
+This repository includes example code showing how to integrate the `openrent-co-uk-scraper` actor into your projects.
+
+You can find example implementations in the [`examples/`](./examples) folder:
+- **TypeScript/JavaScript**: See [`examples/typescript/`](./examples/typescript) for a complete TypeScript example
+- **Python**: See [`examples/python/`](./examples/python) for a complete Python example
+
+Each example includes:
+- Ready-to-use code templates
+- Setup instructions
+- Documentation links
 
 ---
 
